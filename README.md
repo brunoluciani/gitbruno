@@ -1,2 +1,1 @@
-# gitbruno
-Este es un repositorio de prueba del modulo2 de prep cpurse de herny
+esta es una prueba para crear un repositorio y clonarlo al escritorio
